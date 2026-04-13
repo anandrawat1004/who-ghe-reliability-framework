@@ -1,0 +1,20 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Do not publish large or restricted inputs/outputs
+RAW_DATA/
+GHE_MODELLED/RAW_DOWNLOAD/
+DATA_PROCESSED/
+FEATURES/
+ARTIFACTS/
+REPORTS/
+*.parquet
+*.xlsx
+*.zip
+

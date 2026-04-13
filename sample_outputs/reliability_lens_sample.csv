@@ -1,0 +1,8 @@
+country_code,tier,quadrant,asi,divergence_magnitude,use_with_caution,main_reasons
+BLR,A,Q4,0.4134682660587494,0.001789287895058093,False,Q4_stable_aligned
+BRN,D,Q1,14.603056121613482,0.02046558761473398,True,Q1_high_vol_high_div; ASI>1.5; high_divergence
+KAZ,C,Q1,1.1259997451918835,0.029655762608645102,True,Q1_high_vol_high_div; high_divergence
+RUS,A,Q4,0.8202057059267264,0.005905627509933855,False,Q4_stable_aligned
+SYC,D,Q1,11.831653613413543,0.06430595064743753,True,Q1_high_vol_high_div; ASI>1.5; high_divergence
+SYR,D,Q1,5.116081700618692,0.26105642258545403,True,Q1_high_vol_high_div; ASI>1.5; high_divergence
+UKR,A,Q4,0.8448535178534088,0.014572860633796647,False,Q4_stable_aligned

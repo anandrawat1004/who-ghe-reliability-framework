@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Auditing the Architecture of Global Health Estimates: Bias, Artificial Smoothness, and a Reliability Lens"
+type: software
+version: "v1.0"
+date-released: "2026-04-12"
+doi: "10.5281/zenodo.19545271"
+url: "https://doi.org/10.5281/zenodo.19545271"
+authors:
+  - family-names: Rawat
+    given-names: Anand
+    email: anandrawat1004@gmail.com
+license: MIT
+repository-code: "https://github.com/anandrawat1004/who-ghe-reliability-framework"
+keywords:
+  - Global Health Estimates
+  - Mortality Data
+  - Data Reliability
+  - Epidemiology
+  - Time Series Analysis
+  - Data Governance
+
